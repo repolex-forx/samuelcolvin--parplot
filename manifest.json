@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "parplot",
+  "versions": [
+    {
+      "commit": "236f42423c91becb422bda84b452bb4bb41b1c6e",
+      "parsed_at": "2026-10-11T09:02:26.163357+00:00",
+      "filetree": "filetree/236f42423c91becb422bda84b452bb4bb41b1c6e.nq.gz",
+      "blobs": [
+        "blob/a3efca2fc95c2c292bca494520e780a344c3c2ff.nq.gz",
+        "blob/e5871c5d3ccbd9681be3f04cd73875c3c4c0452e.nq.gz",
+        "blob/a01521bb5ea8b1a1c0484cfedb57073002d124d7.nq.gz",
+        "blob/90076f16a6888a5f7d676461ff3a9a6dedfd1170.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/0302847d41a5d070d5f21e5cd2fc0fa74372f562.nq.gz",
+        "blob/d6802c75e77756311f8b828fba194e75563f562a.nq.gz",
+        "blob/f7878410a1f80dd69d3573070993414531c5d3db.nq.gz",
+        "blob/7e8f40fd8e79aac08b1c52af6101d0f7b25f0c9b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
